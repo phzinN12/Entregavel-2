@@ -1,0 +1,36 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    color: black;
+}
+h1 {
+    text-align: center;
+}
+ol {
+    text-align: center;
+    padding: 16px;
+    list-style-type: none;
+}
+nav {
+    padding-bottom: 15px;
+}
+img {
+    width: 60px;
+    height: 60px;
+}
+.center {
+    text-align: center;
+}
+.sep {
+    padding-top: 40px;
+}
